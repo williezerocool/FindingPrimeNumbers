@@ -1,1 +1,1 @@
-# FindinngPrimeNumbers
+# FindingPrimeNumbers
